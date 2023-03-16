@@ -1,1 +1,2 @@
 # IDMX 225 Midterm
+This assignment was created for the midterm for IDMX class at raritan valley community college. In this page we will be putting our knowlege to test in order to create a page about our skills as a web page developer. 
