@@ -1,0 +1,39 @@
+body {
+    color: darkgoldenrod;
+    background-color: white;
+}
+
+header {
+    text-align: center;
+    border: 3px solid black;
+    border-color: darkgoldenrod;
+    padding: 1px;
+}
+
+#hero {
+    text-align: center;
+}
+
+#hero img{
+    text-align: center;
+}
+
+#reviews {
+    text-align: center;
+    margin-bottom: 2rem;
+    max-width:100% ;
+}
+
+#reviews img {
+    max-width: 100%;
+}
+
+#websites {
+    text-align: center;
+}
+
+#footer {
+    text-align: center;
+    border: 2px solid darkgoldenrod;
+    margin-bottom: 2rem;
+}
