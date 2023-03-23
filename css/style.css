@@ -1,6 +1,11 @@
 body {
+    font-family:"Libre Baskerville";
     color: darkgoldenrod;
-    background-color: white;
+    background-color:white;
+}
+h1,{
+    font-family: Alkatra;
+    font-size:100pt:
 }
 
 header {
@@ -8,6 +13,7 @@ header {
     border: 3px solid black;
     border-color: darkgoldenrod;
     padding: 1px;
+    background-color:black;
 }
 
 #hero {
@@ -19,6 +25,7 @@ header {
 }
 
 #reviews {
+    background-color: black;
     text-align: center;
     margin-bottom: 2rem;
     max-width:100% ;
